@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        display: ["Cinzel", "serif"],
-        body: ["Poppins", "sans-serif"],
+        display: ["Orbitron", "monospace"],
+        body: ["Rajdhani", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
